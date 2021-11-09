@@ -1,4 +1,4 @@
-# Jetson_Stats and Telegraf
+# Jetson Series Part 1: Jetson_Stats and Telegraf
 
 This tutorial will show you how you can monitor your Jetson device using [Jetson_Stats](https://github.com/rbonghi/jetson_stats) and [Telegraf](https://github.com/influxdata/telegraf). 
 
